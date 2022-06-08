@@ -1,11 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    background-color: antiquewhite;
+    
+}
 #rps{
     text-align: center;
     color: #030303;
     padding: 15px;
+    background-color: whitesmoke;
     font-family: monospace;
-    background-color: #07050579;
+    background-color: #48e50a79;
     font-size: 40px;
-    border-radius: 30px;
+    border-radius: 10px;
     padding: 15px;
 }
     
@@ -28,7 +38,7 @@
 }
 
 #scissor{
-    background-color: rgba(180, 214, 30, 0.973);
+    background-color: #e25e5ef8;
     padding: 8px 30px;
     border-radius: 10px;
     
