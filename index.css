@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 .box{
+    padding: 20px;
+    margin: 20px;
+    width:80%;
     background-color: antiquewhite;
     
 }
@@ -12,11 +15,12 @@
     color: #030303;
     padding: 15px;
     background-color: whitesmoke;
-    font-family: monospace;
-    background-color: #48e50a79;
+    font-family: fantasy;
+    background-color: #5eec2679;
     font-size: 40px;
     border-radius: 10px;
     padding: 10px;
+    
 }
     
 
@@ -29,7 +33,7 @@
     font-family: monospace;
 }
 #paper{
-    background-color:lawngreen;
+    background-color:rgb(232, 192, 13);
     padding: 8px 30px;
     border-radius: 10px;
    
