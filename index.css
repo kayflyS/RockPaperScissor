@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -8,7 +8,7 @@
     margin: 20px;
     width:80%;
     background-color: antiquewhite;  
-}
+} */
 #rps{
     text-align: center;
     color: #030303;
